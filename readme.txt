@@ -4,4 +4,4 @@ Git tracks changes of file.
 My boss still prefers SVN.
 
 
-new branch dev.
+this is test. and B.
