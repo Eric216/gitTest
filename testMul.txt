@@ -1,6 +1,0 @@
-add testMul file.
-
-this is test txt.
-
-
-modify file.
